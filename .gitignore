@@ -1,0 +1,7 @@
+#
+# gitignore
+#
+
+Debug
+imgs
+.vscode
